@@ -1,8 +1,8 @@
 ﻿{
 	"name": "nemesisready",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"author": "icebro",
-	"website_url": "https://github.com/goldenguy00/LogMute",
+	"website_url": "https://github.com/gamrtiem/nemesis-ready-button",
 	"description": "makes the ready button red (or other colors(but thatd be weird (youre weird if you make it blue..,.,,",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2117",
